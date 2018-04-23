@@ -1,0 +1,4 @@
+com.mercury.spi.impl.HelloServiceA
+com.mercury.spi.impl.ServiceB
+com.mercury.spi.impl.ServiceC
+

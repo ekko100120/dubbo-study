@@ -1,0 +1,8 @@
+com\mercury\proxy\ProxyFactory.class
+com\mercury\proxy\impl\MenuServiceImpl.class
+com\mercury\proxy\bean\TobyRPCNamespaceHandler.class
+com\mercury\proxy\bean\ReferenceBean.class
+com\mercury\proxy\ProxyDemo.class
+com\mercury\proxy\MenuService.class
+com\mercury\proxy\bean\ReferenceConfig.class
+com\mercury\proxy\bean\TobyRPCBeanDefinitionParser.class
